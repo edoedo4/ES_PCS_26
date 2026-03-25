@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wl,--dependency-file=CMakeFiles/myproject.dir/link.d CMakeFiles/myproject.dir/esercizio1.1.cpp.o -o myproject
